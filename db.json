@@ -1,0 +1,28 @@
+{
+    "clients": [
+        {
+            "id": 1,
+            "name": "Julius Memphis",
+            "occupation": "Doctor",
+            "situation": "Active",
+            "have_todo": "Yes",
+            "salary": 36.789
+        },
+        {
+            "id": 2,
+            "name": "Bob Swegger",
+            "occupation": "Streamer",
+            "situation": "Active",
+            "have_todo": "Yes",
+            "salary": 10.908
+        },
+        {
+            "id": 3,
+            "name": "Julio Hobinson",
+            "occupation": "TI",
+            "situation": "Active",
+            "have_todo": "Yes",
+            "salary": 36.789
+        }
+    ]
+}
